@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Module main="itn2_0.Main" gwt="frey.vehicle.webmain.Main"> 
+  <Framework name="ApplicationFramework.core" version="2.0.218_20181019132849" includeSource="true"/>  
+  <Framework name="ApplicationFramework.core.UI" version="2.0.267_20181026161703" includeSource="true"/>  
+  <Framework name="ThingFramework.core" version="2.0.104_20181019133021" includeSource="true"/>  
+  <App name="Vehicle.JTTSpec.Business" version="2.0.27_20180620084825" includeSource="true"/>  
+  <Framework name="VehicleFramework.core" version="2.0.107_20181029162426" includeSource="true"/>  
+  <Framework name="ApplicationFramework.SAE" version="1.0.57_20181022164751" includeSource="true"/>  
+  <App name="Vehicle.JTTSpec.808.core" version="2.0.61_20180703135810" includeSource="true"/>  
+  <App name="App.Authority.Role" version="2.0.28_20180917172150" includeSource="true"/>  
+  <App name="App.Authority.Role.UI" version="2.0.63_20180809081036" includeSource="true"/>  
+  <App name="Vehicle.Analysis.UI" version="2.0.10_20180724152823" includeSource="true"/>  
+  <App name="Vehicle.Monitor.UI" version="2.0.226_20181029162620" includeSource="true"/>  
+  <App name="ElectronicWaybill" version="0.0.20_20181022165223" includeSource="true"/>  
+  <App name="Vehicle.Dispatch.UI" version="2.0.14_20180724152854" includeSource="true"/>  
+  <App name="RawDataPersistEngine" version="2.0.7_20180724152641" includeSource="true"/>  
+  <App name="Vehicle.Home" version="2.0.128_20181025163448" includeSource="true"/>  
+  <App name="Vehicle.Maintenance.UI" version="2.0.14_20180724153027" includeSource="true"/>  
+  <App name="Vehicle.JTTSpec.Business.UI" version="0.0.53_20180920144423" includeSource="true"/>  
+  <App name="Vehicle.CCGM" version="2.0.96_20181026163852" includeSource="true"/>  
+  <App name="Theme.GQMD" version="1.0.11_20181026161850" includeSource="true"/>  
+  <App name="MultiTenancy" version="0.0.3_20180724152624" includeSource="true"/>  
+  <App name="Vehicle.FileManagement" version="0.0.13_20181026165117" includeSource="true"/>  
+  <App name="Vehicle.JTTSpec.809.core" version="0.0.11_20180907155804" includeSource="true"/>  
+  <App name="Vehicle.JTTSpec.809.core.UI" version="0.0.6_20181026163938" includeSource="true"/>  
+  <App name="Elock.core" version="0.0.3_20180724152555" includeSource="true"/>  
+  <App name="Elock.UI" version="0.0.5_20180724152610" includeSource="true"/>  
+  <App name="Trailer.Expand.UI" version="0.0.2_20180724152705" includeSource="true"/>  
+  <ProjApp name="itn2_0.Vehicle.WebService"/>  
+  <ProjApp name="itn2_0.Main"/> 
+</Module>
